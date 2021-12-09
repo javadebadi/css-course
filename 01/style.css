@@ -1,0 +1,52 @@
+html {
+    padding-top: 25px;
+    background-image: url(images/bg-image.jpg);
+    padding-bottom: 25px;
+}
+
+body {
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    background-color: #E1EDEB;
+}
+
+h1 {
+    color: #4C96EC;
+    font-size: 3em;
+    font-weight: normal;
+    font-family: 'Varela Round', 'Arial', sans-serif;
+}
+
+p, address {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin-left: 60px;
+    margin-top: 10px;
+    color: 616161;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #4C96EC;
+    font-size: 2.2em;
+    font-family: 'Varela Round',
+    'Arial',
+    sans-serif;
+    margin: 0;
+    padding: 0 0 10px 60px;
+    background: url(images/bookmark-icon.svg) no-repeat 10px 10px;
+    border-bottom: 2px white solid;
+}
+
+.info {
+    font-size: 0.9em;
+    font-family: 'Varela Round',
+    'Arial',
+    sans-serif;
+    margin-left:0;
+    margin-bottom: 25px;
+    color: 666666;
+}
