@@ -1,1 +1,1 @@
-[First Example]("./01/")
+[First Example](01/)
